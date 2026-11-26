@@ -1,0 +1,66 @@
+{
+  "form_date": "2026-01-07",
+  "basic_info": {
+    "full_name": "Nguyễn Minh Anh",
+    "age": 18,
+    "address": "Hà Nội",
+    "status": "hoc_sinh"
+  },
+  "self_understanding": {
+    "hobbies": [
+      {
+        "name": "Viết blog",
+        "reason": "Thích chia sẻ suy nghĩ"
+      },
+      {
+        "name": "Edit video",
+        "reason": "Sáng tạo nội dung"
+      },
+      {
+        "name": "Nghe podcast",
+        "reason": "Học hỏi kiến thức mới"
+      }
+    ],
+    "strengths": [
+      "Viết tốt",
+      "Giao tiếp ổn",
+      "Nhạy cảm với cảm xúc"
+    ],
+    "favorite_subjects": [
+      {
+        "name": "Tiếng Anh",
+        "reason": "Thích giao tiếp quốc tế"
+      },
+      {
+        "name": "Tâm lý",
+        "reason": "Hiểu con người"
+      },
+      {
+        "name": "Truyền thông",
+        "reason": "Sáng tạo"
+      }
+    ],
+    "experience": "CTV truyền thông CLB trường"
+  },
+  "career_orientation": {
+    "has_chosen": false,
+    "chosen_career": null,
+    "considering_careers": "Tâm lý học / Marketing",
+    "target_schools": [
+      "ĐH Khoa học Xã hội và Nhân văn",
+      "ĐH Kinh tế Quốc dân"
+    ],
+    "important_factors": [
+      "Phù hợp tính cách",
+      "Cơ hội việc làm",
+      "Thu nhập"
+    ]
+  },
+  "family_info": {
+    "father_job": "Kỹ sư",
+    "mother_job": "Giáo viên",
+    "family_expectations": "Gia đình muốn ngành ổn định",
+    "has_guidance": true,
+    "guidance_content": "Bố mẹ khuyên học kinh tế hoặc công nghệ"
+  }
+}

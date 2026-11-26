@@ -1,0 +1,90 @@
+{
+  "session_id": "demo-full-conversation_01",
+  "title": "Chào cô, em đang phân vân giữa Tâm lý học và Marke...",
+  "updated_at": "2026-01-17T17:30:43.920478",
+  "message_count": 16,
+  "history": [
+    {
+      "role": "user",
+      "content": "Chào cô, em đang phân vân giữa Tâm lý học và Marketing. Em nên chọn hướng nào?"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào Minh Anh! Với kết quả Holland của em là ASI (Artistic - Social - Investigative), mình thấy em có những điểm mạnh rất phù hợp với cả hai ngành Tâm lý học và Marketing, nhưng mỗi ngành sẽ phát huy các khía cạnh khác nhau của em:\n\n- **Tâm lý học (Social + Investigative):** Ngành này phù hợp với người thích giúp đỡ, giao tiếp sâu sắc và phân tích hành vi, cảm xúc con người. Em có thế mạnh về nhạy cảm với cảm xúc và viết tốt, nên có thể phát triển tốt trong tư vấn, nghiên cứu tâm lý, hoặc các công việc hỗ trợ tâm lý.\n\n- **Marketing (Artistic + Social + Enterprising):** Marketing đòi hỏi sự sáng tạo, khả năng giao tiếp và thuyết phục, cũng như hiểu khách hàng. Em có sở thích truyền thông và viết tốt, điều này rất phù hợp với các công việc sáng tạo nội dung, xây dựng thương hiệu, quảng cáo.\n\nLời khuyên cá nhân:  \nNếu em thiên về đam mê tìm hiểu con người, giúp đỡ và phân tích sâu sắc thì Tâm lý học là lựa chọn tốt. Còn nếu em thích môi trường năng động, sáng tạo, có thể thử sức với nhiều ý tưởng mới và thích giao tiếp, Marketing sẽ phù hợp hơn.\n\nEm cũng có thể cân nhắc học ngành Tâm lý học với chuyên ngành Marketing tâm lý (Consumer Psychology) hoặc các ngành liên quan truyền thông, để kết hợp cả hai sở thích.\n\nNếu em muốn, mình có thể giúp em tìm hiểu thêm về cơ hội nghề nghiệp, chương trình đào tạo, hoặc điểm chuẩn của các trường nhé! Em muốn tìm hiểu thêm về điều gì?"
+    },
+    {
+      "role": "user",
+      "content": "Nếu em chọn Marketing thì em nên học kỹ năng gì trước để đi thực tập sớm?"
+    },
+    {
+      "role": "assistant",
+      "content": "Nếu em chọn Marketing và muốn đi thực tập sớm, đây là một số kỹ năng quan trọng em nên chuẩn bị trước:\n\n1. **Kỹ năng viết và truyền đạt:**  \nMarketing rất cần khả năng viết nội dung hấp dẫn cho bài đăng, email, quảng cáo, và thuyết trình. Em có thế mạnh viết tốt rồi, nên hãy rèn luyện thêm kỹ năng viết quảng cáo (copywriting) và viết nội dung số (content marketing).\n\n2. **Hiểu biết về mạng xã hội và digital marketing:**  \nNắm vững cách sử dụng các nền tảng như Facebook, Instagram, TikTok, Google Ads, SEO cơ bản sẽ giúp em dễ dàng tham gia các dự án thực tế.\n\n3. **Kỹ năng phân tích dữ liệu:**  \nMarketing hiện đại rất chú trọng phân tích số liệu để đánh giá hiệu quả chiến dịch. Em có thể học các công cụ như Excel, Google Analytics, hoặc các phần mềm phân tích khác.\n\n4. **Kỹ năng làm việc nhóm và giao tiếp:**  \nMarketing thường làm việc theo nhóm, phối hợp với nhiều bộ phận. Kỹ năng giao tiếp, thuyết trình và làm việc nhóm sẽ giúp em hòa nhập nhanh.\n\n5. **Tư duy sáng tạo và giải quyết vấn đề:**  \nLuôn tìm cách tạo ra ý tưởng mới, giải quyết các thách thức trong chiến dịch marketing.\n\nEm có thể bắt đầu học qua các khóa online miễn phí hoặc trả phí về digital marketing, content marketing, SEO, Google Ads,... để có nền tảng vững chắc trước khi đi thực tập.\n\nNếu em muốn, mình có thể gợi ý một số khóa học hoặc nguồn học phù hợp với em nhé! Em muốn không?"
+    },
+    {
+      "role": "user",
+      "content": "Điểm chuẩn ngành Marketing Đại học Kinh tế Quốc dân năm 2025 là bao nhiêu?"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "name": "search_google",
+          "args": {
+            "query": "Điểm chuẩn ngành Marketing Đại học Kinh tế Quốc dân năm 2025"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "name": "search_google",
+      "content": "[1]✓ Gương mặt trẻ, gương mặt trẻ tiêu biểu\n   1 day ago ... Học sinh Việt Nam giành 2 Huy chương Vàng Olympic Toán quốc tế năm 2025. Tại kỳ thi Olympic Toán quốc tế năm 2025 ... đại học dẫn đầu Trung Quốc là ĐH Bắc Kinh ...\n   → [vietnamnet.vn](https://vietnamnet.vn/giao-duc/chan-dung-page6)\n\n[2]✓ ĐH HOA SEN: Tuyển sinh Thạc sĩ đợt 3 năm 2025 (Thời hạn: 24/11 ...\n   5 days ago ... 1, Quản trị kinh doanh (MBA) 3 hướng ngành: Quản trị kinh doanh, Quản trị Marketing và Quản trị Truyền thông, 8340101, 18 tháng, Chính quy ...\n   → [www.hoasen.edu.vn](https://www.hoasen.edu.vn/saudaihoc/dhhs-tuyensinh-thacsi-2026-dot1/)\n\n[3]✓ Trường Đại học Đồng Tháp Trang Tuyển Sinh\n   Jan 8, 2026 ... Có 02 chuyên ngành: - Chương trình đại trà - Chương trình toán tiếng Anh. 7140209, Điểm chuẩn. Năm tuyển sinh. Điểm thi THPT. Học bạ THPT. Điểm thi ĐGNL. 2025.\n   → [tuyensinh.dthu.edu.vn](https://tuyensinh.dthu.edu.vn/)\n\n[4]  Ngành Marketing là gì? Cơ hội việc làm mới nhất\n   Jan 7, 2026 ... Trường Đại học Kinh tế Quốc dân (NEU); Trường Đại học Thương Mại (TMU) ... Trong những năm gần đây, điểm chuẩn ngành Marketing ở nhiều trường đại ...\n   → [www.topcv.vn](https://www.topcv.vn/nganh-marketing-la-gi-cac-vi-tri-trong-nganh-marketing)\n\n[5]✓ Sinh viên Trường Đại học FPT số hóa Vovinam bằng AI, đưa võ Việt ...\n   Jan 4, 2026 ... Xuất phát từ nhu cầu học tập thực tế của sinh viên, nhóm dự án DIMO – 3Dimension Motion được phát triển bởi các bạn sinh viên Trường Đại học ...\n   → [daihoc.fpt.edu.vn](https://daihoc.fpt.edu.vn/tin-noi-bat-muc-tin-tuc/sinh-vien-truong-dai-hoc-fpt-so-hoa-vovinam-bang-ai-dua-vo-viet-buoc-vao-khong-gian-so/)\n\n[6]  Trải nghiệm trở thành Marketers tại Thái Lan cùng chương trình ...\n   Jan 4, 2026 ... Trong chuỗi hành trình Vi vu khắp Đông Nam Á, chuyến Study Tour tại Thái Lan (từ ngày 25 đến 29-11-2025) của sinh viên K51 ASIA Co-op thuộc ...\n   → [baokhanhhoa.vn](https://baokhanhhoa.vn/ueh-nexus-nha-trang/202601/trai-nghiem-tro-thanh-marketers-tai-thai-lan-cung-chuong-trinh-asia-co-op-453191c/)\n\n[7]✓ Hơn 30 đại học công bố phương thức xét tuyển năm 2026 - Báo ...\n   Jan 2, 2026 ... Ngoài xét tuyển thẳng và xét điểm thi tốt nghiệp THPT, các phương ... Đại học Kinh tế quốc dân, Không, HSA, TSA, SAT, ACT. 3, Học viện Công ...\n   → [vnexpress.net](https://vnexpress.net/hon-30-dai-hoc-cong-bo-phuong-thuc-xet-tuyen-nam-2026-5000014.html)\n\n[8]  Lễ tổng kết chương trình học bổng Shinhan Life S-cellence đợt 2 ...\n   Dec 31, 2025 ... lễ trao học bổng và giấy chứng nhận hoàn thành kiến tập của chương trình học bổng Shinhan Life S-cellence do Công ty TNHH Bảo hiểm Shinhan ...\n   → [baotintuc.vn](https://baotintuc.vn/doanh-nghiep-san-pham-dich-vu/le-tong-ket-chuong-trinh-hoc-bong-shinhan-life-scellence-dot-2-20260101090009281.htm)\n\n(✓ = nguồn uy tín. Ưu tiên chọn nguồn phù hợp nhất, kèm link.)"
+    },
+    {
+      "role": "assistant",
+      "content": "Năm 2025, điểm chuẩn ngành Marketing của Đại học Kinh tế Quốc dân (NEU) chưa có thông tin chính thức công bố cụ thể trên các nguồn mình tìm được. Tuy nhiên, theo xu hướng các năm gần đây, điểm chuẩn ngành Marketing thường khá cao do tính cạnh tranh và sức hút lớn của ngành.\n\nĐể có thông tin chính xác nhất khi có công bố điểm chuẩn, em nên theo dõi trang tuyển sinh chính thức của Đại học Kinh tế Quốc dân hoặc các kênh thông tin giáo dục uy tín.\n\nNếu em muốn, mình có thể giúp em cập nhật ngay khi có điểm chuẩn chính thức nhé! Em có muốn không?"
+    },
+    {
+      "role": "user",
+      "content": "Còn điểm chuẩn ngành Tâm lý học ở ĐH KHXH&NV Hà Nội thì sao?"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "name": "search_google",
+          "args": {
+            "query": "Điểm chuẩn ngành Tâm lý học Đại học Khoa học Xã hội và Nhân văn Hà Nội năm 2025"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "name": "search_google",
+      "content": "[1]✓ Gương mặt trẻ, gương mặt trẻ tiêu biểu\n   1 day ago ... Gương mặt trẻ, gương mặt trẻ tiêu biểu trong học tập, nghiên cứu, khởi nghiệp. Nhân tài đất Việt, những bài học thành công của những gương mặt xuất sắc.\n   → [vietnamnet.vn](https://vietnamnet.vn/giao-duc/chan-dung-page6)\n\n[2]✓ Trường Đại học Sư phạm Hà Nội: Trang chủ\n   3 days ago ... Mục đích của chuyến công tác là kí kết Biên bản ghi nhớ giai đoạn 2026-2031, mở ra những cơ hội hợp tác cụ thể giữa hai cơ sở giáo dục đào tạo giáo viên hàng ...\n   → [hnue.edu.vn](https://hnue.edu.vn/)\n\n[3]✓ Ngành học chưa tốt nghiệp đã có việc làm - 100% tại HSU năm 2026\n   5 days ago ... ... Tâm lý học và Thiết kế nội thất. Ngành Quản trị khách sạn ... và chuẩn bị nguồn nhân lực cho xã hội. Đó là sự tiếp tục khẳng định ...\n   → [www.hoasen.edu.vn](https://www.hoasen.edu.vn/nganh-hoc-100-co-viec-lam-truoc-khi-tot-nghiep-tai-hsu-nam-2026/)\n\n[4]✓ Cổng thông tin Tuyển sinh | Trường Đại học Sư phạm Hà Nội\n   Jan 6, 2026 ... Ngày 22/8/2025, căn cứ kết quả xét tuyển và lọc ảo toàn quốc, Hội đồng tuyển sinh xác định điểm chuẩn xét tuyển năm 2025 vào các ngành đào tạo đại học chính quy ...\n   → [tuyensinh.hnue.edu.vn](https://tuyensinh.hnue.edu.vn/)\n\n[5]✓ Sinh viên Trường Đại học FPT số hóa Vovinam bằng AI, đưa võ Việt ...\n   Jan 4, 2026 ... Xuất phát từ nhu cầu học tập thực tế của sinh viên, nhóm dự án DIMO – 3Dimension Motion được phát triển bởi các bạn sinh viên Trường Đại học ...\n   → [daihoc.fpt.edu.vn](https://daihoc.fpt.edu.vn/tin-noi-bat-muc-tin-tuc/sinh-vien-truong-dai-hoc-fpt-so-hoa-vovinam-bang-ai-dua-vo-viet-buoc-vao-khong-gian-so/)\n\n[6]  Câu chuyện Thứ 7 | VOV1.VOV.VN\n   Jan 1, 2026 ... ... Khoa Nhân học, Trường ĐH Khoa học Xã hội và Nhân văn, ĐH Quốc gia Hà Nội. Nghệ nhân Hoàng Anh Sướng – người đưa văn hóa và vẻ đẹp của trà Việt ra thế giới ...\n   → [vov1.vov.vn](https://vov1.vov.vn/goc-nhin-vov1/cau-chuyen-thoi-su/cau-chuyen-thu-7?page=7)\n\n[7]✓ Trường Đại học Đà Lạt\n   Nov 18, 2025 ... Ngày 19/12/2025, Trường Đại học Đà Lạt đăng cai và phối hợp với: Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội; Trường Đại học Khoa học Tự ...\n   → [dlu.edu.vn](https://dlu.edu.vn/)\n\n[8]  10 DẤU ẤN NỔI BẬT CỦA THỦ ĐÔ HÀ NỘI NĂM 2025\n   Dec 30, 2025 ... Hà Nội: Tổng kết hoạt động của Đoàn Đại biểu Quốc hội khóa XV và Hội đồng nhân dân thành phố Hà Nội khóa XVI nhiệm kỳ 2021-2026 · HĐND thành ...\n   → [dangcongsan.vn](https://dangcongsan.vn/hanoi/tin-tuc-hoat-dong/10-dau-an-noi-bat-cua-thu-do-ha-noi-nam-2025.html)\n\n(✓ = nguồn uy tín. Ưu tiên chọn nguồn phù hợp nhất, kèm link.)"
+    },
+    {
+      "role": "assistant",
+      "content": "Hiện tại mình chưa tìm thấy thông tin điểm chuẩn ngành Tâm lý học của Đại học Khoa học Xã hội và Nhân văn Hà Nội năm 2025 được công bố chính thức trên các nguồn uy tín.\n\nEm có thể theo dõi trang tuyển sinh chính thức của trường để cập nhật điểm chuẩn sớm nhất khi có thông báo.\n\nNếu em muốn, mình sẽ giúp em theo dõi và thông báo ngay khi có điểm chuẩn nhé! Em có muốn không?"
+    },
+    {
+      "role": "user",
+      "content": "Dựa trên điểm chuẩn và profile của em, cô nghĩ em nên chọn ngành nào?"
+    },
+    {
+      "role": "assistant",
+      "content": "Minh Anh thân mến,\n\nDựa trên profile của em (18 tuổi, học sinh, sở thích Tiếng Anh, Tâm lý, Truyền thông; điểm mạnh viết tốt, giao tiếp ổn, nhạy cảm với cảm xúc) và kết quả Holland ASI (Artistic - Social - Investigative), mình có một số nhận xét như sau:\n\n- Em có thiên hướng sáng tạo (Artistic), thích giúp đỡ, giao tiếp (Social), và thích tìm hiểu, phân tích (Investigative). Đây là những tố chất rất phù hợp với cả ngành Tâm lý học và Marketing.\n\n- Về điểm chuẩn, ngành Marketing ở Đại học Kinh tế Quốc dân thường có điểm chuẩn khá cao và cạnh tranh, trong khi ngành Tâm lý học ở ĐH KHXH&NV Hà Nội cũng là ngành hot nhưng chưa có điểm chuẩn năm 2025 cụ thể để so sánh.\n\n- Nếu em ưu tiên môi trường học tập có tính sáng tạo, năng động, thích truyền thông và có thể phát huy kỹ năng viết, giao tiếp, Marketing sẽ là lựa chọn phù hợp. Em cũng có thể phát triển kỹ năng digital marketing, quảng cáo, truyền thông đa phương tiện.\n\n- Nếu em đam mê sâu sắc về tâm lý con người, muốn giúp đỡ, tư vấn, nghiên cứu hành vi, cảm xúc, và có tính kiên nhẫn, tỉ mỉ, thì Tâm lý học sẽ giúp em phát triển thế mạnh đó.\n\nLời khuyên:  \nEm có thể cân nhắc chọn ngành phù hợp với đam mê sâu nhất và môi trường học tập em cảm thấy thoải mái. Ngoài ra, em cũng có thể tìm hiểu các chương trình học có thể kết hợp cả hai lĩnh vực, ví dụ như Marketing tâm lý (Consumer Psychology) hoặc truyền thông tâm lý.\n\nNếu em muốn, mình có thể giúp em lên kế hoạch học tập, phát triển kỹ năng cho ngành em chọn hoặc tìm hiểu thêm về các trường, chương trình đào tạo phù hợp.\n\nEm thấy sao? Em muốn mình hỗ trợ thêm điều gì không?"
+    },
+    {
+      "role": "user",
+      "content": "Điểm chuẩn ngành Marketing Đại học Kinh tế Quốc dân năm 2025 là bao nhiêu?"
+    },
+    {
+      "role": "assistant",
+      "content": "Năm 2025, điểm chuẩn ngành Marketing của Đại học Kinh tế Quốc dân (NEU) chưa có thông tin chính thức công bố cụ thể trên các nguồn mình tìm được. Tuy nhiên, theo xu hướng các năm gần đây, điểm chuẩn ngành Marketing thường khá cao do tính cạnh tranh và sức hút lớn của ngành.\n\nĐể có thông tin chính xác nhất khi có công bố điểm chuẩn, em nên theo dõi trang tuyển sinh chính thức của Đại học Kinh tế Quốc dân hoặc các kênh thông tin giáo dục uy tín.\n\nNếu em muốn, mình có thể giúp em cập nhật ngay khi có điểm chuẩn chính thức nhé! Em có muốn không?"
+    }
+  ]
+}

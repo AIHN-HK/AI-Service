@@ -1,0 +1,7 @@
+﻿Flow,Calls,Prompt Tokens (tổng),Completion Tokens (tổng),Total Tokens (tổng),Cost USD (tổng),Avg Tokens/Call,Avg Cost/Call (USD)
+F7 – Input Boundary (max length ~5000),2,61609,154,61763,0.009334,30881.5,0.004667
+F1 – Chat thường (LLM only),3,55148,591,55739,0.008627,18579.7,0.002876
+F2 – Chat + Memory,2,7118,144,7262,0.001154,3631.0,0.000577
+F5 – Worst-case: Memory+KnowledgeBase,1,15737,214,15951,0.002489,15951.0,0.002489
+F4 – Chat + Research Agent (Google 3-turn),2,302043,1599,303642,0.046266,151821.0,0.023133
+F3 – Chat + Knowledge Base (Qdrant RAG),2,24629,258,24887,0.003849,12443.5,0.001924

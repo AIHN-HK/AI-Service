@@ -1,0 +1,7 @@
+﻿Metric,Kết Quả,Ghi Chú
+Search tool latency (avg),0 ms,Từ F3 (Qdrant)
+Search tool timeout rate,0.0 %,Timeout / Lỗi trong quá trình search
+Search tool % of total TTLB,0.0 %,Tỉ trọng thời gian search trên tổng TTLB
+Memory retrieval latency (avg),0 ms,Từ F2 (History)
+Prompt size tăng / turn,0 tokens,Số token context tăng mỗi turn trò chuyện (Tùy backend có cung cấp usage metadata)
+TTFT tại turn 1 / 5 / 10 / 20,N/A / N/A / N/A / N/A ms,"Từ F2, thể hiện sự chậm dần khi context window lớn, chỉ có giá trị khi đủ turn"

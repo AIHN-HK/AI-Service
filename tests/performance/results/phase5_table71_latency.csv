@@ -1,0 +1,6 @@
+﻿Turn,Avg Prompt Tokens,TTFT avg (ms),TTLB avg (ms),Ghi Chu
+Turn 1,5613,1995,4843,Baseline - context trong
+Turn 5,9190,4999,19856,Ngan - context nho
+Turn 10,9940,1539,20944,Trigger Long-term DB
+Turn 20,13853,4716,20337,Trigger Compress History
+Turn 50,36041,13450,26706,OOM/Truncation risk

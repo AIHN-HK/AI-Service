@@ -1,0 +1,62 @@
+{
+  "form_date": "2026-02-04",
+  "basic_info": {
+    "full_name": "Lê Văn Quyết",
+    "age": 18,
+    "address": "Đà Nẵng",
+    "status": "hoc_sinh"
+  },
+  "self_understanding": {
+    "hobbies": [
+      {
+        "name": "Lắp ráp mô hình Robot",
+        "reason": "Thích tìm hiểu máy móc"
+      },
+      {
+        "name": "Tham gia CLB Tình nguyện",
+        "reason": "Thích giúp đỡ mọi người"
+      },
+      {
+        "name": "Vẽ tranh",
+        "reason": "Thư giãn, sáng tạo"
+      }
+    ],
+    "strengths": [
+      "Khéo tay",
+      "Kiên nhẫn",
+      "Hòa đồng"
+    ],
+    "favorite_subjects": [
+      {
+        "name": "Vật lý",
+        "reason": "Hiểu nguyên lý máy móc"
+      },
+      {
+        "name": "GDCD",
+        "reason": "Hiểu về xã hội"
+      }
+    ],
+    "experience": "Trưởng nhóm dự án STEM của trường"
+  },
+  "career_orientation": {
+    "has_chosen": false,
+    "chosen_career": null,
+    "considering_careers": "Kỹ sư cơ khí / Công tác xã hội",
+    "target_schools": [
+      "ĐH Bách Khoa",
+      "ĐH Lao động Xã hội"
+    ],
+    "important_factors": [
+      "Được làm việc tay chân",
+      "Được giúp đời",
+      "Môi trường năng động"
+    ]
+  },
+  "family_info": {
+    "father_job": "Thợ cơ khí",
+    "mother_job": "Y tá",
+    "family_expectations": "Bố muốn nối nghiệp làm cơ khí, mẹ muốn làm bác sĩ",
+    "has_guidance": true,
+    "guidance_content": "Gia đình mâu thuẫn về định hướng"
+  }
+}

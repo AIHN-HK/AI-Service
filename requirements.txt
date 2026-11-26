@@ -1,0 +1,40 @@
+# Web framework
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+websockets>=12.0
+
+# Environment & config
+pydantic>=2.0.0
+PyYAML>=6.0
+python-dotenv>=1.0.0
+
+# Database clients
+pymongo[srv]>=4.6.0
+motor[srv]>=3.3.0
+dnspython>=2.4.0
+certifi>=2024.2.2
+qdrant-client>=1.7.0
+redis>=5.0.0
+
+# HTTP & streaming
+httpx>=0.25.0
+sse-starlette>=2.0.0
+
+# Logging & retry
+structlog>=23.0.0
+tenacity>=8.0.0
+redisvl>=0.4.0
+
+# Testing (dev)
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+locust>=2.0.0
+pandas>=2.0.0
+
+# LangChain/LangGraph
+langgraph>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+langmem==0.0.30
+langgraph-checkpoint-redis==0.4.0
+requests>=2.31.0

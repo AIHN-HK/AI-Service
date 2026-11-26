@@ -1,0 +1,58 @@
+{
+  "form_date": "2026-02-04",
+  "basic_info": {
+    "full_name": "Trần Thị Thu",
+    "age": 18,
+    "address": "TP.HCM",
+    "status": "hoc_sinh"
+  },
+  "self_understanding": {
+    "hobbies": [
+      {
+        "name": "Đọc sách khoa học",
+        "reason": "Thích tìm tòi kiến thức"
+      },
+      {
+        "name": "Làm thí nghiệm",
+        "reason": "Thích thực hành"
+      }
+    ],
+    "strengths": [
+      "Cẩn thận",
+      "Chi tiết",
+      "Tư duy logic"
+    ],
+    "favorite_subjects": [
+      {
+        "name": "Hóa học",
+        "reason": "Đam mê phản ứng chất"
+      },
+      {
+        "name": "Sinh học",
+        "reason": "Yêu thiên nhiên"
+      }
+    ],
+    "experience": "Giải Nhì HSG Hóa cấp thành phố"
+  },
+  "career_orientation": {
+    "has_chosen": false,
+    "chosen_career": null,
+    "considering_careers": "Dược sĩ / Nghiên cứu viên",
+    "target_schools": [
+      "ĐH Y Dược",
+      "ĐH Khoa học Tự nhiên"
+    ],
+    "important_factors": [
+      "Được làm việc chuyên môn sâu",
+      "Ổn định",
+      "Thu nhập cao"
+    ]
+  },
+  "family_info": {
+    "father_job": "Giáo viên",
+    "mother_job": "Kế toán",
+    "family_expectations": "Gia đình ủng hộ mọi quyết định",
+    "has_guidance": false,
+    "guidance_content": null
+  }
+}

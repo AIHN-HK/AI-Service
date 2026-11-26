@@ -1,0 +1,34 @@
+{
+  "form_date": "2026-03-12",
+  "state_tracker": {
+    "current_state": "STATE_1_SELF_DISCOVERY",
+    "missing_critical_slots": [
+      "considering_careers",
+      "hobbies",
+      "strengths"
+    ],
+    "completed_slots": [],
+    "turn_count_in_state": 0,
+    "ai_working_notes": ""
+  },
+  "basic_info": {
+    "full_name": "Thu Anh",
+    "age": 17,
+    "address": null,
+    "status": "hoc_sinh"
+  },
+  "self_understanding": {
+    "hobbies": [],
+    "strengths": [],
+    "favorite_subjects": [],
+    "experience": null
+  },
+  "career_orientation": {
+    "has_chosen": false,
+    "chosen_career": null,
+    "considering_careers": null,
+    "target_schools": [],
+    "important_factors": []
+  },
+  "family_info": null
+}

@@ -1,0 +1,6 @@
+﻿Chi So,Ket Qua
+Breaking point,150 users
+First failure point,150 users (Xem log)
+Bottleneck component,___ (DB / LLM / Network)
+LLM API rate-limit hits,0 lan / 0.0 %
+Tool timeout rate tai breaking point,0.0 %

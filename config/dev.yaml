@@ -1,0 +1,104 @@
+# Config: dev
+# Non-secret application settings for development environment.
+# Secrets (API keys, DB URIs) go in .env (gitignored).
+
+app:
+  name: "Chatbot Service"
+  env: dev
+
+# CORS
+cors:
+  allowed_origins:
+    - "*"
+
+# LLM
+llm:
+  model: "gpt-4o-mini"
+  temperature: 0.2
+  memory_temperature: 0.1
+  max_retries: 3
+
+# MongoDB
+mongodb:
+  db_name: "chatbot_service"
+  chat_history_ttl_days: 30
+
+# Knowledge Base
+knowledge:
+  mongo_db: "knowledge_ingestion"
+  qdrant_collection: "knowledge_vectors"
+  embedding_model: "text-embedding-3-small"
+  search_top_k: 5
+
+# Memory
+memory:
+  max_history_messages: 20
+  vector_size: 1536
+  longterm:
+    window: 10
+    history_collection: "user_chat_history"
+    summary_token_threshold: 1000
+    chunk_size: 4
+    chunk_content_max_len: 500
+    search_limit: 3
+    history_limit: 2
+    min_score: 0.3
+    context_chunk_preview: 300
+  langmem:
+    store_collection: "langmem_store"
+    sync_interval: 5.0
+
+# Cache
+cache:
+  semantic:
+    enabled: true
+    collection: "semantic_cache"
+    threshold: 0.92
+    ttl_hours: 24
+    max_query_len: 500
+  tool:
+    enabled: true
+    ttl: 3600           # 1h
+  redis_ttl: 86400      # 1 day
+  search_ttl: 3600      # 1h
+  knowledge_ttl: 86400  # 24h
+  embedding_ttl: 604800 # 7d
+
+# Semantic Router
+semantic_router:
+  enabled: true
+  max_query_len: 200
+
+# Conversation Memory
+conv_mem_redis_ttl: 86400  # 24h
+
+# Search
+search:
+  num_results: 8
+  timeout: 15.0
+  language: "lang_vi"
+  country: "countryVN"
+  safe: "active"
+
+# Input Validation
+validation:
+  max_message_length: 5000
+  max_tool_calls_per_turn: 3
+  summary_truncate_length: 300
+
+# Rate Limiting
+rate_limit:
+  max_requests: 100     # Higher for dev
+  window_seconds: 60
+
+# Circuit Breaker
+circuit_breaker:
+  failure_threshold: 3
+  recovery_timeout: 60
+
+# Request Queue
+queue:
+  max_concurrent: 10
+  timeout: 30
+
+

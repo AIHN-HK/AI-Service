@@ -1,0 +1,66 @@
+{
+  "form_date": "2026-11-02",
+  "basic_info": {
+    "full_name": "Thu Anh",
+    "age": 17,
+    "address": null,
+    "status": "hoc_sinh"
+  },
+  "self_understanding": {
+    "hobbies": [
+      {
+        "name": "Viết sổ đầu bài",
+        "reason": "Phù hợp với tính cách cẩn thận, chỉn chu, có thể tổng hợp cuối kỳ"
+      },
+      {
+        "name": "Làm việc nhà (dọn nhà, nấu cơm)",
+        "reason": "Thích giúp đỡ người thân, đặc biệt khi mẹ ốm"
+      },
+      {
+        "name": "Giảng bài cho bạn (Vật lý)",
+        "reason": "Cảm thấy vui khi chia sẻ kiến thức và thấy các bạn hiểu bài"
+      },
+      {
+        "name": "Kiếm tiền",
+        "reason": "Sở thích cá nhân thực tế"
+      }
+    ],
+    "strengths": [
+      "Có trách nhiệm cực cao, tỉ mỉ, cẩn thận",
+      "Khả năng lãnh đạo, bao quát và phân công công việc rõ ràng (khi làm nhóm trưởng)",
+      "Tính kỷ luật cao, làm việc theo quy trình, có kế hoạch",
+      "Khả năng thuyết phục và có tiếng nói trong tập thể",
+      "Cầu toàn (hơi hướng OCD), sẵn sàng bao thầu công việc nếu người khác làm không tốt"
+    ],
+    "favorite_subjects": [
+      {
+        "name": "Lịch sử",
+        "reason": "Thấy hay và tò mò về ngày xưa"
+      },
+      {
+        "name": "Địa lý",
+        "reason": "Thấy hay và tò mò về sự vật"
+      }
+    ],
+    "experience": "Phụ trách viết Sổ đầu bài từ năm lớp 9; Thường xuyên làm nhóm trưởng và làm slide thuyết trình."
+  },
+  "career_orientation": {
+    "has_chosen": false,
+    "chosen_career": null,
+    "considering_careers": "Giáo viên Tiểu học / Luật sư / Nhân viên pha chế (Bartender)",
+    "target_schools": [],
+    "important_factors": [
+      "Tính cách",
+      "Sở thích",
+      "Khả năng học tập",
+      "Có khả năng kiếm tiền"
+    ]
+  },
+  "family_info": {
+    "father_job": null,
+    "mother_job": null,
+    "family_expectations": "Ủng hộ và định hướng theo tính cách của con",
+    "has_guidance": true,
+    "guidance_content": "Mẹ định hướng và khuyên rằng Sư phạm, Kinh doanh hoặc Luật đều rất hợp môn tính cách của Thu Anh."
+  }
+}

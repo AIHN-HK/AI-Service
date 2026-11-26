@@ -1,0 +1,30 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+
+# Notebook generated data (conversation logs)
+notebooks/data/
+*.json
+
+# Allow specific data directories
+!data/test/*.json
+!data/user/*.json
+
+# Thư mục nháp
+xyz/
+.pytest_cache/

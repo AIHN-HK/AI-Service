@@ -1,0 +1,4 @@
+﻿Concurrent Users,TTFT p50 (ms),TTFT p95 (ms),TTFT p99 (ms),TTLB p95 (ms),Error Rate (%),Danh gia
+2 users,3964,21764,27681,28090,5.41,___
+200 users,24238,44369,57191,48703,96.06,___
+200 users,19717,61887,81063,38818,87.03,___

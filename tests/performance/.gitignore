@@ -1,0 +1,6 @@
+# Ignore performance test results
+results/*.csv
+results/*.html
+api.log
+__pycache__/
+*.pyc

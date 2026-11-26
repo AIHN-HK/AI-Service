@@ -1,0 +1,6 @@
+﻿Turn,Avg Prompt Tokens,Avg Completion Tokens,Avg Total Tokens,Avg Cost/Call (USD),Total Cost (USD),Ghi Chu
+Turn 1,5613,179,5792,0.000949,0.004746,Baseline - context trong
+Turn 5,9190,452,9642,0.001650,0.008249,Ngan - context nho
+Turn 10,9940,424,10364,0.001745,0.008726,Trigger Long-term DB
+Turn 20,13853,422,14275,0.002331,0.011657,Trigger Compress History
+Turn 50,36041,366,36407,0.005626,0.005626,OOM/Truncation risk

@@ -1,0 +1,16 @@
+{
+  "result_id": "holland_result_009",
+  "test_id": "holland_v1",
+  "profile_id": "profile_009",
+  "created_at": "2026-01-07T14:38:00Z",
+  "scores": {
+    "R": 31,
+    "I": 22,
+    "A": 6,
+    "S": 8,
+    "E": 7,
+    "C": 16
+  },
+  "top3": ["R", "I", "C"],
+  "top_code": "RIC"
+}

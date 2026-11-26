@@ -1,0 +1,32 @@
+{
+  "session_id": "demo-wrapper-001",
+  "title": "Chào cô, em đang phân vân giữa Tâm lý học và Marke...",
+  "updated_at": "2026-01-14T06:08:42.584602",
+  "message_count": 6,
+  "history": [
+    {
+      "role": "user",
+      "content": "Chào cô, em đang phân vân giữa Tâm lý học và Marketing. Em nên chọn hướng nào?"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào Minh Anh! Với kết quả Holland của em là ASI (Artistic - Social - Investigative), mình có thể phân tích giúp em như sau:\n\n- A (Artistic): Em có thiên hướng sáng tạo, thích thể hiện bản thân qua nghệ thuật, viết lách, hoặc các hoạt động đòi hỏi sự độc lập và sáng tạo.\n- S (Social): Em thích giúp đỡ, giao tiếp, đồng cảm và làm việc với con người, phù hợp với các ngành liên quan đến tư vấn, giáo dục, chăm sóc xã hội.\n- I (Investigative): Em có xu hướng thích tìm hiểu, phân tích, nghiên cứu, giải quyết vấn đề một cách logic.\n\nXét về 2 ngành em đang phân vân:\n\n1. **Tâm lý học**: Rất phù hợp với nhóm S (Social) và I (Investigative). Ngành này đòi hỏi khả năng hiểu và giúp đỡ con người, đồng thời cần tư duy phân tích, nghiên cứu về hành vi và tâm lý. Nếu em yêu thích việc tìm hiểu sâu về con người, cảm xúc, và muốn làm công việc tư vấn, hỗ trợ tâm lý, thì đây là lựa chọn rất hợp với em.\n\n2. **Marketing**: Thuộc nhóm E (Enterprising) nhiều hơn, nhưng cũng có yếu tố sáng tạo (A) và giao tiếp (S). Marketing đòi hỏi kỹ năng thuyết phục, lãnh đạo, sáng tạo trong xây dựng chiến lược truyền thông, quảng cáo. Nếu em thích môi trường năng động, cạnh tranh, và muốn phát triển kỹ năng giao tiếp, sáng tạo thì marketing cũng là lựa chọn tốt.\n\nDựa trên sở thích và điểm mạnh của em (viết tốt, giao tiếp ổn, nhạy cảm với cảm xúc), cả hai ngành đều có điểm phù hợp. Tuy nhiên, nếu em thiên về nghiên cứu, giúp đỡ con người và muốn làm việc sâu về tâm lý thì Tâm lý học sẽ phù hợp hơn. Còn nếu em thích môi trường kinh doanh, sáng tạo và truyền thông thì Marketing sẽ phát huy tốt thế mạnh của em.\n\nEm có muốn mình giúp phân tích thêm về cơ hội nghề nghiệp hoặc học tập của từng ngành không?"
+    },
+    {
+      "role": "user",
+      "content": "Nếu em chọn Marketing thì em nên học kỹ năng gì trước để đi thực tập sớm?"
+    },
+    {
+      "role": "assistant",
+      "content": "Nếu Minh Anh chọn Marketing, để đi thực tập sớm và phát triển tốt, em nên tập trung học và rèn luyện các kỹ năng sau:\n\n1. **Kỹ năng viết và truyền đạt**: Vì em có thế mạnh viết tốt, hãy phát huy bằng cách học cách viết nội dung quảng cáo, bài PR, email marketing, và kỹ năng thuyết trình.\n\n2. **Hiểu biết về digital marketing**: Bao gồm SEO (tối ưu hóa công cụ tìm kiếm), quảng cáo trên mạng xã hội (Facebook, Instagram, TikTok), Google Ads, và phân tích dữ liệu marketing.\n\n3. **Kỹ năng phân tích thị trường và khách hàng**: Biết cách nghiên cứu thị trường, phân tích đối thủ, hiểu hành vi khách hàng để xây dựng chiến lược phù hợp.\n\n4. **Sử dụng công cụ marketing phổ biến**: Học cách dùng các phần mềm như Google Analytics, Facebook Ads Manager, Canva (thiết kế đơn giản), và các công cụ quản lý dự án như Trello, Asana.\n\n5. **Kỹ năng giao tiếp và làm việc nhóm**: Marketing thường làm việc với nhiều bộ phận khác nhau, nên kỹ năng phối hợp, thuyết phục và trình bày ý tưởng rất quan trọng.\n\n6. **Tư duy sáng tạo và giải quyết vấn đề**: Luôn tìm cách đổi mới, sáng tạo trong chiến dịch marketing và xử lý các tình huống phát sinh.\n\nEm có thể bắt đầu học qua các khóa học online miễn phí hoặc trả phí trên các nền tảng như Coursera, Udemy, hoặc các trang chuyên về digital marketing. Đồng thời, em nên tìm các dự án nhỏ hoặc thực tập tại các công ty, agency để tích lũy kinh nghiệm thực tế.\n\nNếu em muốn, mình có thể gợi ý cụ thể các khóa học hoặc nguồn học phù hợp với em nhé!"
+    },
+    {
+      "role": "user",
+      "content": "Em thấy không thích Marketing lắm, em muốn học Tâm lý học"
+    },
+    {
+      "role": "assistant",
+      "content": "Rất tốt khi Minh Anh đã xác định rõ hơn về sở thích của mình! Với nhóm tính cách ASI, Tâm lý học thực sự rất phù hợp với em vì:\n\n- Em có thiên hướng Social (S), thích giúp đỡ, đồng cảm và làm việc với con người.\n- Em có tính Investigative (I), thích tìm hiểu, phân tích và nghiên cứu sâu về hành vi, tâm lý.\n- Em có Artistic (A), giúp em sáng tạo trong cách tiếp cận, giao tiếp và giải quyết vấn đề tâm lý.\n\nHọc Tâm lý học, em có thể phát triển các kỹ năng như:\n\n- Hiểu và phân tích hành vi, cảm xúc của con người.\n- Kỹ năng tư vấn, giao tiếp và hỗ trợ người khác.\n- Nghiên cứu khoa học về tâm lý học.\n- Ứng dụng tâm lý trong giáo dục, doanh nghiệp, truyền thông, hoặc chăm sóc sức khỏe tâm thần.\n\nTâm lý học cũng mở ra nhiều cơ hội nghề nghiệp như: tư vấn tâm lý, tham vấn học đường, nhân sự, nghiên cứu, hoặc làm việc trong các tổ chức xã hội.\n\nNếu em muốn, mình có thể giúp em tìm hiểu thêm về chương trình học, cơ hội việc làm, hoặc kỹ năng cần chuẩn bị khi học Tâm lý học nhé! Em muốn tìm hiểu thêm về điều gì?"
+    }
+  ]
+}

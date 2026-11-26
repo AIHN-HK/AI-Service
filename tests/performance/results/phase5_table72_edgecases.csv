@@ -1,0 +1,5 @@
+﻿Test Case,Ket Qua,Pass / Fail
+Max input token test,___,—
+Truncate behavior,___,—
+OOM risk tai turn 50,___ MB VRAM toi da,—
+Context leak,___,—

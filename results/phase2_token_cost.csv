@@ -1,0 +1,19 @@
+﻿Concurrent Users,Flow,Calls,Prompt Tokens,Completion Tokens,Total Tokens,Cost USD
+2 users,F3 - Chat + Knowledge Base (Qdrant RAG),9,136448,2523,138971,0.021982
+2 users,F4 - Chat + Research Agent (Google 3-turn),5,87166,3497,90663,0.015173
+2 users,F6 - Worst-case FULL (Memory+Research+Profile+Holland),8,143478,5437,148915,0.024783
+2 users,F1 - Chat thuong (LLM only),8,45004,1247,46251,0.007499
+2 users,F2 - Chat + Memory,7,48662,1371,50033,0.008122
+2 users,TOTAL,35,460758,14075,474833,0.077559
+200 users,F1 - Chat thuong (LLM only),161,62713,1221,63934,0.010140
+200 users,F2 - Chat + Memory,154,37949,894,38843,0.006230
+200 users,F3 - Chat + Knowledge Base (Qdrant RAG),135,55790,847,56637,0.008877
+200 users,F4 - Chat + Research Agent (Google 3-turn),83,41533,2924,44457,0.007984
+200 users,F6 - Worst-case FULL (Memory+Research+Profile+Holland),102,57794,3418,61212,0.010720
+200 users,TOTAL,25,255779,9304,265083,0.043951
+200 users,F1 - Chat thuong (LLM only),112,119280,2899,122179,0.019632
+200 users,F2 - Chat + Memory,104,83631,2317,85948,0.013933
+200 users,F3 - Chat + Knowledge Base (Qdrant RAG),73,105644,1810,107454,0.016932
+200 users,F4 - Chat + Research Agent (Google 3-turn),45,13768,525,14293,0.002380
+200 users,F6 - Worst-case FULL (Memory+Research+Profile+Holland),67,30485,1436,31921,0.005434
+200 users,TOTAL,52,352808,8987,361795,0.058311

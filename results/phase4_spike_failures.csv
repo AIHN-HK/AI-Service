@@ -1,0 +1,26 @@
+Method,Name,Error,Occurrences
+
+WS,F1 - Chat thuong (LLM only) [TTLB],Exception('server_error'),92
+
+WS,F6 - Worst-case FULL (Memory+Research+Profile+Holland) [TTLB],Exception('recv_err: Connection to remote host was lost.'),2
+
+WS,F6 - Worst-case FULL (Memory+Research+Profile+Holland) [TTLB],Exception('server_error'),56
+
+WS,F2 - Chat + Memory [TTLB],Exception('server_error'),69
+
+WS,F2 - Chat + Memory [TTLB],Exception('recv_err: Connection to remote host was lost.'),6
+
+WS,F6 - Worst-case FULL (Memory+Research+Profile+Holland) [TTLB],Exception('conn_err: socket is already closed.'),1
+
+WS,F2 - Chat + Memory [TTLB],Exception('server_error'),9
+
+WS,F6 - Worst-case FULL (Memory+Research+Profile+Holland) [TTLB],Exception('server_error'),5
+
+WS,F2 - Chat + Memory [TTLB],Exception('server_error'),2
+
+GET,Health Check,CatchResponseError('Health HTTP 0'),104
+
+WS,F3 - Chat + Knowledge Base (Qdrant RAG) [TTLB],Exception('server_error'),63
+
+WS,F4 - Chat + Research Agent (Google 3-turn) [TTLB],Exception('server_error'),44
+

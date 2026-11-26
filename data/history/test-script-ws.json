@@ -1,0 +1,16 @@
+{
+  "session_id": "test-script-ws",
+  "title": "Tư vấn cho tôi ngành IT",
+  "updated_at": "2026-01-14T21:14:44.951704",
+  "message_count": 2,
+  "history": [
+    {
+      "role": "user",
+      "content": "Tư vấn cho tôi ngành IT"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn Minh Anh! Với kết quả Holland của bạn là ASI (Artistic - Social - Investigative), ta có thể phân tích như sau về ngành IT:\n\n1. Ý nghĩa nhóm tính cách:\n- A (Artistic): Bạn có xu hướng sáng tạo, thích làm việc độc lập, thể hiện ý tưởng qua các sản phẩm mang tính nghệ thuật hoặc đổi mới.\n- S (Social): Bạn thích giúp đỡ, giao tiếp, làm việc với con người, có khả năng đồng cảm và thấu hiểu.\n- I (Investigative): Bạn thích phân tích, nghiên cứu, giải quyết vấn đề, tò mò về cách vận hành của sự vật, hiện tượng.\n\n2. Ngành IT phù hợp với bạn:\n- IT là lĩnh vực đòi hỏi khả năng tư duy logic, phân tích (I), đồng thời cũng có nhiều mảng sáng tạo (A) như thiết kế giao diện, phát triển game, lập trình ứng dụng sáng tạo.\n- Nếu bạn thích làm việc với con người (S), bạn có thể chọn các vị trí như tư vấn công nghệ, hỗ trợ kỹ thuật, quản lý dự án IT, hoặc phát triển các sản phẩm công nghệ hướng tới người dùng.\n- Các công việc trong IT phù hợp với bạn có thể là: lập trình viên, thiết kế UX/UI, phân tích dữ liệu, phát triển phần mềm, quản lý dự án công nghệ, chuyên viên tư vấn công nghệ.\n\n3. Lời khuyên cá nhân:\n- Với sở thích Tiếng Anh và giao tiếp ổn, bạn có thể tận dụng để học IT bằng tiếng Anh, tham gia các dự án quốc tế hoặc làm việc trong môi trường đa văn hóa.\n- Bạn nên thử trải nghiệm các khóa học lập trình cơ bản, thiết kế web hoặc UX/UI để xem bạn thích mảng nào nhất trong IT.\n- IT cũng là ngành có nhiều cơ hội phát triển và mức lương tốt, phù hợp với bạn đang cân nhắc giữa đam mê và thực tế.\n- Nếu bạn vẫn phân vân, có thể kết hợp học IT với marketing số (digital marketing), nơi bạn vừa dùng kỹ năng công nghệ, vừa phát huy khả năng giao tiếp và sáng tạo.\n\nBạn muốn mình tư vấn cụ thể hơn về các ngành nghề IT nào hoặc lộ trình học tập ra sao không?"
+    }
+  ]
+}

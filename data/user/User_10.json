@@ -1,0 +1,62 @@
+{
+  "form_date": "2026-02-04",
+  "basic_info": {
+    "full_name": "Phạm Gia Bảo",
+    "age": 18,
+    "address": "Hà Nội",
+    "status": "hoc_sinh"
+  },
+  "self_understanding": {
+    "hobbies": [
+      {
+        "name": "Tranh luận",
+        "reason": "Thích thuyết phục người khác"
+      },
+      {
+        "name": "Xem phim 'Suits'",
+        "reason": "Thần tượng Harvey Specter"
+      },
+      {
+        "name": "Sưu tập Vest",
+        "reason": "Thích phong cách lịch lãm"
+      }
+    ],
+    "strengths": [
+      "Hùng biện",
+      "Tự tin thái quá",
+      "Tư duy chiến lược"
+    ],
+    "favorite_subjects": [
+      {
+        "name": "Tiếng Anh",
+        "reason": "Cần cho công việc quốc tế"
+      },
+      {
+        "name": "Giáo dục kinh tế pháp luật",
+        "reason": "Nền tảng luật"
+      }
+    ],
+    "experience": "Chủ tịch CLB Tranh biện (Debate Club)"
+  },
+  "career_orientation": {
+    "has_chosen": true,
+    "chosen_career": "Luật sư tranh tụng",
+    "considering_careers": "Luật sư / Công tố viên",
+    "target_schools": [
+      "ĐH Luật Hà Nội",
+      "Harvard Law School"
+    ],
+    "important_factors": [
+      "Quyền lực",
+      "Danh tiếng",
+      "Tiền bạc"
+    ]
+  },
+  "family_info": {
+    "father_job": "Doanh nhân",
+    "mother_job": "Giám đốc nhân sự",
+    "family_expectations": "Bố mẹ muốn học Quản trị kinh doanh để nối nghiệp",
+    "has_guidance": true,
+    "guidance_content": "Bố mẹ phản đối làm Luật sư vì sợ vất vả và nguy hiểm"
+  }
+}
